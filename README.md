@@ -1,2 +1,2 @@
 # Regetable
-Factorio-like game developped in Unity involving repopulating a planet with greenery
+Factorio-like game developed in Unity involving repopulating a planet with greenery
